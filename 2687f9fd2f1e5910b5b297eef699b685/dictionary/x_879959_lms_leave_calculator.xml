@@ -9,7 +9,7 @@
                 <element inactive_on_update="false" label="Yearly" value="y"/>
             </choice>
         </element>
-        <element choice="3" choice_field="leave_type" choice_table="x_879959_lms_leave_request" default="cs" label="Leave Type" max_length="40" name="leave_type" type="choice">
+        <element choice="3" choice_field="leave_type" choice_table="x_879959_lms_leave_request" default="cl" label="Leave Type" max_length="40" name="leave_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Casual Leave" sequence="0" value="cl"/>
                 <element inactive_on_update="false" label="Earned Leave" sequence="1" value="el"/>
